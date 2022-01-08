@@ -1,0 +1,7 @@
+notebooks/.ipynb_checkpoints/*
+notebooks/TradingBot/.txt
+notebooks/TradingBot/analysis.pdf
+notebooks/TradingBot/backtrader.log
+notebooks/TradingBot/.ipynb_checkpoints/*-checkpoint*
+
+notebooks/SW01/*

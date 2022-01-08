@@ -1,0 +1,14 @@
+scrapy
+selenium
+mrjob
+pyodbc
+nltk
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+backcall
+yfinance
+yahoo_fin
+backtesting
+backtrader
+ipympl
+matplotlib==3.2.2
